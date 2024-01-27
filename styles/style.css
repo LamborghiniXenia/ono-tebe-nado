@@ -31,7 +31,7 @@ body {
 
 .header__links-list-item {
     list-style: circle;
-    display: list-item;    
+    display: list-item;
     color: #000;
     font-style: normal;
     font-weight: 400;
@@ -71,7 +71,7 @@ body {
     width: 240.521px;
     height: 98px;
     margin-top: 5px;
-    margin-bottom: 2px; 
+    margin-bottom: 2px;
 }
 
 .header__address {
@@ -109,7 +109,7 @@ body {
     text-transform: uppercase;
     position: absolute;
     z-index: 2;
-    padding: 165px 50px 237px 50px;    
+    padding: 165px 50px 237px 50px;
 }
 
 .aligned-text {
@@ -161,7 +161,7 @@ body {
     font-style: normal;
     font-weight: 400;
     word-spacing: 18.37px;
-    line-height: 28px; 
+    line-height: 28px;
     display: inline;
     text-transform: uppercase;
 }
